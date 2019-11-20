@@ -10,3 +10,5 @@ maestro.py is a support file written by Steven Jacobs -- Aug 2013 https://github
 lineFollow.py has the robot find a line of papers of a specific color and follow it untill the end.
 
 marsRover.py implements all previous parts in order to simulate an automated digging action on mars. This includes following a line, lining up perpendicular to a colored line, find a face and line up with it.
+
+All others were provided by Hunter Lloyd as examples.
